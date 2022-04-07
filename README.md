@@ -1,1 +1,2 @@
-# typescript_app
+Test application using typescript and redux
+
